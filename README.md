@@ -7,14 +7,14 @@ Welcome to **Awesome-Links**, a meticulously curated collection of top-tier reso
 
 - [Overview](#overview)
 - [Categories](#categories)
-    - [Content Creation Resources](./assets/Content_Creation_Resources.md)
-    - [Gnu/Linux](./assets/Gnu_Linux.md)
-    - [Tech and News Updates](./assets/Tech_and_News_Updates.md)
-    - [Daily Use Tools and Utilities](./assets/Daily_Use_Tools_and_Utilities.md)
-    - [Social Media and Online Platforms](./assets/Social_Media_and_Online_Platforms.md)
-    - [Learning and Educational Resources](./assets/Learning_and_Educational_Resources.md)
-    - [Weird and Interesting Websites](./assets/Weird_and_Interesting_Websites.md)
-    - [General Tools for Everyday Use](./assets/General_Tools_for_Everyday_Use.md)
+    - [Content Creation Resources](./assets/content-creation-resources.md)
+    - [Gnu/Linux](./assets/gnu-linux.md)
+    - [Tech and News Updates](./assets/tech-and-news-updates.md)
+    - [Daily Use Tools and Utilities](./assets/daily-use-tools-and-utilities.md)
+    - [Social Media and Online Platforms](./assets/social-media-and-online-platforms.md)
+    - [Learning and Educational Resources](./assets/learning-and-educational-resources.md)
+    - [Weird and Interesting Websites](./assets/weird-and-interesting-websites.md)
+    - [General Tools for Everyday Use](./assets/general-tools-for-everyday-use.md)
 - [License](#license)
 - [Contact](#contact)
 - [Contribution](#contribution)
@@ -30,44 +30,44 @@ This repository is designed to serve as a comprehensive destination for discover
 
 ## Categories
 
-### [Content Creation Resources](./assets/Content_Creation_Resources.md)
+### [Content Creation Resources](./assets/content-creation-resources.md)
 Discover resources for creating content, including free music, sound effects, stock footage, and motion graphics. Ideal for designers, video editors, and content creators.
 - **Music**: Pixabay, YouTube Audio Library
 - **Sound Effects**: Free Sound, Filmcrux
 - **Stock Footage**: Pexels, Videvo
 - **Fonts**: Font Squirrel, Motionarray
 
-### [Gnu/Linux](./assets/Gnu_Linux.md)
+### [Gnu/Linux](./assets/gnu-linux.md)
 Explore a comprehensive collection of Linux-related resources, including distributions, forums, documentation, and tools for developers and system administrators.
 - **Linux Distros**: Ubuntu, Arch, Fedora
 - **DevOps Tools**: Docker, Kubernetes
 
-### [Tech and News Updates](./assets/Tech_and_News_Updates.md)
+### [Tech and News Updates](./assets/tech-and-news-updates.md)
 Stay informed with the latest updates and news from the world of technology. From tech blogs to global news platforms, this section has it all.
 - **Tech Blogs**: TechCrunch, Wired
 - **Developer Updates**: GitHub, Stack Overflow
 
-### [Daily Use Tools and Utilities](./assets/Daily_Use_Tools_and_Utilities.md)
+### [Daily Use Tools and Utilities](./assets/daily-use-tools-and-utilities.md)
 Essential tools for everyday use, including whiteboard apps, file converters, and note-taking platforms.
 - **Whiteboard Tools**: Excalidraw, Miro
 - **File Converters**: PDF to DOC, File Compressors
 
-### [Social Media and Online Platforms](./assets/Social_Media_and_Online_Platforms.md)
+### [Social Media and Online Platforms](./assets/social-media-and-online-platforms.md)
 Tools and platforms for enhancing your social media presence. Manage multiple accounts, track engagement, and more.
 - **Instagram Growth Tools**: Pinterest, Buffer
 - **Content Management**: Hootsuite, Later
 
-### [Learning and Educational Resources](./assets/Learning_and_Educational_Resources.md)
+### [Learning and Educational Resources](./assets/learning-and-educational-resources.md)
 Access top educational resources to enhance your knowledge in various fields. From language learning apps to online libraries.
 - **Language Learning**: Duolingo, Anki
 - **Free Books and PDFs**: Internet Archive, Project Gutenberg
 
-### [Weird and Interesting Websites](./assets/Weird_and_Interesting_Websites.md)
+### [Weird and Interesting Websites](./assets/weird-and-interesting-websites.md)
 A collection of quirky, fun, and sometimes odd websites for entertainment and exploration.
 - **Random Fun**: The Useless Web, Bored Panda
 - **Unusual Tools**: Zoomquilt, Pointer Pointer
 
-### [General Tools for Everyday Use](./assets/General_Tools_for_Everyday_Use.md)
+### [General Tools for Everyday Use](./assets/general-tools-for-everyday-use.md)
 A variety of general utilities, including health, fitness, and productivity tools to assist you in your daily life.
 - **Health Trackers**: MyFitnessPal, Period Tracker
 - **Productivity**: Google Keep, Todoist
