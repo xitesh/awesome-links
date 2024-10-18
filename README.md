@@ -8,6 +8,7 @@ Welcome to **Awesome-Links**, a meticulously curated collection of top-tier reso
 
 - [Introduction](#introduction)
 - [Categories](#categories)
+    - [Daily Use Tools](./assets/daily-use-tools.md)
     - [GNU/Linux](./assets/gnu-linux.md)
     - [Open Source Software](./assets/open-source-software.md)
     - [AI and Automation Tools](./assets/ai-and-automation-tools.md)
@@ -15,7 +16,6 @@ Welcome to **Awesome-Links**, a meticulously curated collection of top-tier reso
     - [Security and Ethical Hacking Resources](./assets/security-and-ethical-hacking-resources.md)
     - [Collaboration and Productivity Tools](./assets/collaboration-and-productivity-tools.md)
     - [Computer Resources](./assets/computer-resources.md)
-    - [Daily Use Tools](./assets/daily-use-tools.md)
     - [Content Creation Resources](./assets/content-creation-resources.md)
     - [Learning Platforms](./assets/learning-platforms.md)
     - [Entertainment and Media Resources](./assets/entertainment-and-media-resources.md)
@@ -38,6 +38,9 @@ This repository serves as a comprehensive destination for discovering useful lin
 
 ## Categories
 
+### [Daily Use Tools](./assets/daily-use-tools.md)
+Essential tools for everyday use, including whiteboard apps, file converters, and note-taking platforms.
+
 ### [GNU/Linux](./assets/gnu-linux.md)
 A comprehensive collection of Linux-related resources, including distributions, forums, documentation, and tools for developers.
 
@@ -58,9 +61,6 @@ Resources that facilitate teamwork and boost productivity, including project man
 
 ### [Computer Resources](./assets/computer-resources.md)
 Essential computer-related tools, guides, and utilities for both casual users and tech enthusiasts.
-
-### [Daily Use Tools](./assets/daily-use-tools.md)
-Essential tools for everyday use, including whiteboard apps, file converters, and note-taking platforms.
 
 ### [Content Creation Resources](./assets/content-creation-resources.md)
 Resources for creating content, including free music, sound effects, stock footage, and motion graphics.
