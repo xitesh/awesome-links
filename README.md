@@ -5,24 +5,31 @@ Welcome to **Awesome-Links**, a meticulously curated collection of top-tier reso
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Introduction](#introduction)
 - [Categories](#categories)
+    - [AI and Automation Tools](./assets/ai-and-automation-tools.md)
+    - [Collaboration and Productivity Tools](./assets/collaboration-and-productivity-tools.md)
+    - [Computer Resources](./assets/computer-resources.md)
     - [Content Creation Resources](./assets/content-creation-resources.md)
-    - [Gnu/Linux](./assets/gnu-linux.md)
-    - [Tech and News Updates](./assets/tech-and-news-updates.md)
-    - [Daily Use Tools and Utilities](./assets/daily-use-tools-and-utilities.md)
-    - [Social Media and Online Platforms](./assets/social-media-and-online-platforms.md)
-    - [Learning and Educational Resources](./assets/learning-and-educational-resources.md)
+    - [Daily Use Tools](./assets/daily-use-tools.md)
+    - [Development and Programming Resources](./assets/development-and-programming-resources.md)
+    - [Entertainment and Media Resources](./assets/entertainment-and-media-resources.md)
+    - [GNU/Linux](./assets/gnu-linux.md)
+    - [Lifestyle and Wellness Resources](./assets/lifestyle-and-wellness-resources.md)
+    - [Learning Platforms](./assets/learning-platforms.md)
+    - [Open Source Software](./assets/open-source-software.md)
+    - [Security and Ethical Hacking Resources](./assets/security-and-ethical-hacking-resources.md)
+    - [Social Networking Sites](./assets/social-networking-sites.md)
+    - [Free Resource Websites](./assets/free-resource-websites.md)
+    - [Technology News and Updates](./assets/technology-news-and-updates.md)
     - [Weird and Interesting Websites](./assets/weird-and-interesting-websites.md)
-    - [General Tools for Everyday Use](./assets/general-tools-for-everyday-use.md)
-- [License](#license)
+- [Contributing](#contributing)
 - [Contact](#contact)
-- [Contribution](#contribution)
-- [Last Message](#last-message)
+- [License](#license)
 
 ---
 
-## Overview
+## Introduction
 
 This repository is designed to serve as a comprehensive destination for discovering useful links, resources, and tools across a wide range of topics. It is divided into categories to ensure easy navigation and quick access to the resources you need. Whether you're working on content creation, mastering Linux, staying updated on tech news, or simply looking for handy everyday tools, **Awesome-Links** has something for everyone.
 
@@ -30,53 +37,59 @@ This repository is designed to serve as a comprehensive destination for discover
 
 ## Categories
 
+### [AI and Automation Tools](./assets/ai-and-automation-tools.md)
+Explore cutting-edge tools and platforms for artificial intelligence and automation to enhance productivity and efficiency.
+
+### [Collaboration and Productivity Tools](./assets/collaboration-and-productivity-tools.md)
+Find resources that facilitate teamwork and boost productivity, including project management and communication tools.
+
+### [Computer Resources](./assets/computer-resources.md)
+Access essential computer-related tools, guides, and utilities for both casual users and tech enthusiasts.
+
 ### [Content Creation Resources](./assets/content-creation-resources.md)
-Discover resources for creating content, including free music, sound effects, stock footage, and motion graphics. Ideal for designers, video editors, and content creators.
-- **Music**: Pixabay, YouTube Audio Library
-- **Sound Effects**: Free Sound, Filmcrux
-- **Stock Footage**: Pexels, Videvo
-- **Fonts**: Font Squirrel, Motionarray
+Discover resources for creating content, including free music, sound effects, stock footage, and motion graphics.
 
-### [Gnu/Linux](./assets/gnu-linux.md)
-Explore a comprehensive collection of Linux-related resources, including distributions, forums, documentation, and tools for developers and system administrators.
-- **Linux Distros**: Ubuntu, Arch, Fedora
-- **DevOps Tools**: Docker, Kubernetes
-
-### [Tech and News Updates](./assets/tech-and-news-updates.md)
-Stay informed with the latest updates and news from the world of technology. From tech blogs to global news platforms, this section has it all.
-- **Tech Blogs**: TechCrunch, Wired
-- **Developer Updates**: GitHub, Stack Overflow
-
-### [Daily Use Tools and Utilities](./assets/daily-use-tools-and-utilities.md)
+### [Daily Use Tools](./assets/daily-use-tools.md)
 Essential tools for everyday use, including whiteboard apps, file converters, and note-taking platforms.
-- **Whiteboard Tools**: Excalidraw, Miro
-- **File Converters**: PDF to DOC, File Compressors
 
-### [Social Media and Online Platforms](./assets/social-media-and-online-platforms.md)
-Tools and platforms for enhancing your social media presence. Manage multiple accounts, track engagement, and more.
-- **Instagram Growth Tools**: Pinterest, Buffer
-- **Content Management**: Hootsuite, Later
+### [Development and Programming Resources](./assets/development-and-programming-resources.md)
+Explore tools and resources for developers and programmers, including code editors, libraries, and tutorials.
 
-### [Learning and Educational Resources](./assets/learning-and-educational-resources.md)
-Access top educational resources to enhance your knowledge in various fields. From language learning apps to online libraries.
-- **Language Learning**: Duolingo, Anki
-- **Free Books and PDFs**: Internet Archive, Project Gutenberg
+### [Entertainment and Media Resources](./assets/entertainment-and-media-resources.md)
+Find websites and platforms for entertainment, including streaming services, media libraries, and more.
+
+### [GNU/Linux](./assets/gnu-linux.md)
+Explore a comprehensive collection of Linux-related resources, including distributions, forums, documentation, and tools for developers.
+
+### [Lifestyle and Wellness Resources](./assets/lifestyle-and-wellness-resources.md)
+Access tools and platforms for improving lifestyle and wellness, including fitness trackers and mental health resources.
+
+### [Learning Platforms](./assets/learning-platforms.md)
+Access top educational resources to enhance your knowledge in various fields, from language learning apps to online libraries.
+
+### [Open Source Software](./assets/open-source-software.md)
+Discover a variety of open-source software tools that are free to use and modify.
+
+### [Security and Ethical Hacking Resources](./assets/security-and-ethical-hacking-resources.md)
+Explore resources and tools for ethical hacking and cybersecurity.
+
+### [Social Networking Sites](./assets/social-networking-sites.md)
+Find tools and platforms for enhancing your social media presence.
+
+### [Free Resource Websites](./assets/free-resource-websites.md)
+Access websites that provide free resources across various categories.
+
+### [Technology News and Updates](./assets/technology-news-and-updates.md)
+Stay informed with the latest updates and news from the world of technology.
 
 ### [Weird and Interesting Websites](./assets/weird-and-interesting-websites.md)
 A collection of quirky, fun, and sometimes odd websites for entertainment and exploration.
-- **Random Fun**: The Useless Web, Bored Panda
-- **Unusual Tools**: Zoomquilt, Pointer Pointer
-
-### [General Tools for Everyday Use](./assets/general-tools-for-everyday-use.md)
-A variety of general utilities, including health, fitness, and productivity tools to assist you in your daily life.
-- **Health Trackers**: MyFitnessPal, Period Tracker
-- **Productivity**: Google Keep, Todoist
 
 ---
 
-## License
+## Contributing
 
-This project is licensed under the [CC0-1.0 License](./LICENSE). You are free to use, modify, and distribute the resources without restrictions.
+We welcome contributions! If you have valuable links to add or would like to improve the repository in any way, feel free to submit a pull request or open an issue.
 
 ---
 
@@ -91,12 +104,10 @@ For any questions, suggestions, or to connect, feel free to reach out via the fo
 
 ---
 
-## Contribution
+## License
 
-We welcome contributions! If you have valuable links to add or would like to improve the repository in any way, feel free to submit a pull request or open an issue.
+This project is licensed under the [CC0-1.0 License](./LICENSE). You are free to use, modify, and distribute the resources without restrictions.
 
 ---
-
-## Last Message
 
 Thank you for visiting **Awesome-Links**! We hope you find the resources here helpful and inspiring. Happy exploring!
