@@ -4,7 +4,7 @@ This section provides a curated list of resources for content creators, includin
 
 ## Music
 - **Pixabay**: [Pixabay](https://pixabay.com/music/) - Free music for personal and commercial use.
-- **YouTube Audio Library**: [YouTube Audio Library](https://www.youtube.com/audiolibrary/music) - A collection of free music and sound effects for your videos.
+- **YouTube Audio Library**: [YouTube Audio Library](https://studio.youtube.com/channel) - A collection of free music and sound effects for your videos.
 - **MixKit**: [MixKit](https://mixkit.co/) - High-quality royalty-free music.
 
 ## Sound Effects
