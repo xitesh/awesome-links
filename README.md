@@ -8,20 +8,20 @@ Welcome to **Awesome-Links**, a meticulously curated collection of top-tier reso
 - [Introduction](#introduction)
 - [Categories](#categories)
     - [AI and Automation Tools](./assets/ai-and-automation-tools.md)
+    - [GNU/Linux](./assets/gnu-linux.md)
+    - [Daily Use Tools](./assets/daily-use-tools.md)
     - [Collaboration and Productivity Tools](./assets/collaboration-and-productivity-tools.md)
     - [Computer Resources](./assets/computer-resources.md)
     - [Content Creation Resources](./assets/content-creation-resources.md)
-    - [Daily Use Tools](./assets/daily-use-tools.md)
     - [Development and Programming Resources](./assets/development-and-programming-resources.md)
     - [Entertainment and Media Resources](./assets/entertainment-and-media-resources.md)
-    - [GNU/Linux](./assets/gnu-linux.md)
-    - [Lifestyle and Wellness Resources](./assets/lifestyle-and-wellness-resources.md)
     - [Learning Platforms](./assets/learning-platforms.md)
     - [Open Source Software](./assets/open-source-software.md)
     - [Security and Ethical Hacking Resources](./assets/security-and-ethical-hacking-resources.md)
     - [Social Networking Sites](./assets/social-networking-sites.md)
     - [Free Resource Websites](./assets/free-resource-websites.md)
     - [Technology News and Updates](./assets/technology-news-and-updates.md)
+    - [Lifestyle and Wellness Resources](./assets/lifestyle-and-wellness-resources.md)
     - [Weird and Interesting Websites](./assets/weird-and-interesting-websites.md)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -40,6 +40,12 @@ This repository is designed to serve as a comprehensive destination for discover
 ### [AI and Automation Tools](./assets/ai-and-automation-tools.md)
 Explore cutting-edge tools and platforms for artificial intelligence and automation to enhance productivity and efficiency.
 
+### [GNU/Linux](./assets/gnu-linux.md)
+Explore a comprehensive collection of Linux-related resources, including distributions, forums, documentation, and tools for developers.
+
+### [Daily Use Tools](./assets/daily-use-tools.md)
+Essential tools for everyday use, including whiteboard apps, file converters, and note-taking platforms.
+
 ### [Collaboration and Productivity Tools](./assets/collaboration-and-productivity-tools.md)
 Find resources that facilitate teamwork and boost productivity, including project management and communication tools.
 
@@ -49,20 +55,11 @@ Access essential computer-related tools, guides, and utilities for both casual u
 ### [Content Creation Resources](./assets/content-creation-resources.md)
 Discover resources for creating content, including free music, sound effects, stock footage, and motion graphics.
 
-### [Daily Use Tools](./assets/daily-use-tools.md)
-Essential tools for everyday use, including whiteboard apps, file converters, and note-taking platforms.
-
 ### [Development and Programming Resources](./assets/development-and-programming-resources.md)
 Explore tools and resources for developers and programmers, including code editors, libraries, and tutorials.
 
 ### [Entertainment and Media Resources](./assets/entertainment-and-media-resources.md)
 Find websites and platforms for entertainment, including streaming services, media libraries, and more.
-
-### [GNU/Linux](./assets/gnu-linux.md)
-Explore a comprehensive collection of Linux-related resources, including distributions, forums, documentation, and tools for developers.
-
-### [Lifestyle and Wellness Resources](./assets/lifestyle-and-wellness-resources.md)
-Access tools and platforms for improving lifestyle and wellness, including fitness trackers and mental health resources.
 
 ### [Learning Platforms](./assets/learning-platforms.md)
 Access top educational resources to enhance your knowledge in various fields, from language learning apps to online libraries.
@@ -81,6 +78,9 @@ Access websites that provide free resources across various categories.
 
 ### [Technology News and Updates](./assets/technology-news-and-updates.md)
 Stay informed with the latest updates and news from the world of technology.
+
+### [Lifestyle and Wellness Resources](./assets/lifestyle-and-wellness-resources.md)
+Access tools and platforms for improving lifestyle and wellness, including fitness trackers and mental health resources.
 
 ### [Weird and Interesting Websites](./assets/weird-and-interesting-websites.md)
 A collection of quirky, fun, and sometimes odd websites for entertainment and exploration.
