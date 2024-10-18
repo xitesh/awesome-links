@@ -8,9 +8,9 @@ Welcome to **Awesome-Links**, a meticulously curated collection of top-tier reso
 
 - [Introduction](#introduction)
 - [Categories](#categories)
-    - [Daily Use Tools](./assets/daily-use-tools.md)
     - [GNU/Linux](./assets/gnu-linux.md)
     - [Open Source Software](./assets/open-source-software.md)
+    - [Daily Use Tools](./assets/daily-use-tools.md)
     - [AI and Automation Tools](./assets/ai-and-automation-tools.md)
     - [Development and Programming Resources](./assets/development-and-programming-resources.md)
     - [Security and Ethical Hacking Resources](./assets/security-and-ethical-hacking-resources.md)
@@ -38,14 +38,14 @@ This repository serves as a comprehensive destination for discovering useful lin
 
 ## Categories
 
-### [Daily Use Tools](./assets/daily-use-tools.md)
-Essential tools for everyday use, including whiteboard apps, file converters, and note-taking platforms.
-
 ### [GNU/Linux](./assets/gnu-linux.md)
 A comprehensive collection of Linux-related resources, including distributions, forums, documentation, and tools for developers.
 
 ### [Open Source Software](./assets/open-source-software.md)
 A variety of open-source software tools that are free to use and modify.
+
+### [Daily Use Tools](./assets/daily-use-tools.md)
+Essential tools for everyday use, including whiteboard apps, file converters, and note-taking platforms.
 
 ### [AI and Automation Tools](./assets/ai-and-automation-tools.md)
 Explore cutting-edge tools and platforms for artificial intelligence and automation to enhance productivity and efficiency.
