@@ -1,180 +1,64 @@
-# Awesome Links
+# My Resource Hub
 
-Welcome to the **Awesome Links** repository! This project is a curated collection of valuable resources for developers, designers, learners, and tech enthusiasts. You'll find links categorized for easy access, whether you're looking for tools, documentation, or educational resources.
+Welcome to my curated repository of tools, websites, and resources that I personally use in my daily activities as a developer, content creator, and tech enthusiast. This collection will help anyone looking for development resources, content creation tools, learning materials, and more. Below, you'll find a well-organized set of categories that point to specific resources in each area.
 
-## Table of Contents
+---
 
-- [Introduction](#introduction)
-- [Categories](#categories)
-    - [AI and Automation Tools](#ai-and-automation-tools)
-    - [Collaboration and Productivity Tools](#collaboration-and-productivity-tools)
-    - [Computer Resources](#computer-resources)
-    - [Content Creation Resources](#content-creation-resources)
-    - [Daily Use Tools](#daily-use-tools)
-    - [Development and Programming Resources](#development-and-programming-resources)
-    - [Entertainment and Media Resources](#entertainment-and-media-resources)
-    - [GNU/Linux](#gnulinux)
-    - [Lifestyle and Wellness Resources](#lifestyle-and-wellness-resources)
-    - [Learning Platforms](#learning-platforms)
-    - [Open Source Software](#open-source-software)
-    - [Security and Ethical Hacking Resources](#security-and-ethical-hacking-resources)
-    - [Social Networking Sites](#social-networking-sites)
-    - [Free Resource Websites](#free-resource-websites)
-    - [Technology News and Updates](#technology-news-and-updates)
-    - [Weird and Interesting Websites](#weird-and-interesting-websites)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [License](#license)
+## Categories Overview
 
-## Introduction
+### [Content Creation Resources](./assets/Content_Creation_Resources.md)
+This section is dedicated to all the tools and platforms you need to create high-quality content. You'll find free music, sound effects, stock footage, motion graphics, fonts, overlays, and more. If you're a video editor, designer, or creator, this will be your go-to hub for resources.
 
-In the fast-paced world of technology, keeping track of all the valuable resources online can be overwhelming. This repository aims to simplify that by providing a categorized collection of links for easy reference and sharing.
+### [Background Removal Tools](./assets/Background_Removal_Tools.md)
+Want to remove backgrounds from images quickly? This section lists the best tools for fast, high-quality background removal. It includes online tools like Remove.bg and Adobe’s background remover, ideal for designers and content creators.
 
-## Categories
+### [File Manipulation Tools](./assets/File_Manipulation_Tools.md)
+Whether you're converting PDFs, compressing files, or converting between different file types, this section provides tools that help you manipulate files efficiently. These tools are essential for everyday productivity and file handling.
 
-### AI and Automation Tools
-- AI Resources
-- Automation Tools
+### [Gnu/Linux](./assets/Gnu_Linux.md)
+If you're a Linux enthusiast or a developer working with open-source software, this category covers everything Linux. From forums, documentation, distros, updates, and DevOps tools—it's your gateway to mastering Linux.
 
-### Collaboration and Productivity Tools
-- [Google Docs](https://docs.google.com) - Online document editing and sharing.
-- [Trello](https://trello.com) - Visual project management tool.
-- [Asana](https://asana.com) - Task management and collaboration platform.
+### [Tech and News Updates](./assets/Tech_and_News_Updates.md)
+Stay updated with the latest in technology, including breaking news, trends, and updates in the tech world. This section lists reliable sources for keeping up with what's happening in the tech industry.
 
-### Computer Resources
-- [Tom's Hardware](https://www.tomshardware.com) - Hardware reviews and benchmarks.
-- [How-To Geek](https://www.howtogeek.com) - Tech tips and tutorials.
-- [Reddit](https://www.reddit.com) - Various tech-related communities.
+### [Daily Use Tools and Utilities](./assets/Daily_Use_Tools_and_Utilities.md)
+A collection of tools that everyone needs for daily work. These include whiteboards, drawing tools like Excalidraw, eraser.io, and much more. Essential for brainstorming, sketching ideas, and everyday use.
 
-### Content Creation Resources
-- [Unsplash](https://unsplash.com) - Free stock photos.
-- [Pexels](https://www.pexels.com) - Free stock videos and photos.
-- [Epidemic Sound](https://www.epidemicsound.com) - Royalty-free music.
-- [Freesound.org](https://freesound.org) - Sound effects library.
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video editing software.
-- [OBS Studio](https://obsproject.com) - Open-source screen recording and streaming tool.
+### [Social Media and Online Platforms](./assets/Social_Media_and_Online_Platforms.md)
+This category provides tools and platforms for managing your online presence. From Instagram, Twitter, Pinterest, and more, find resources that enhance your experience and productivity on social media.
 
-### Daily Use Tools
-- [Excalidraw](https://excalidraw.com) - Virtual collaborative whiteboard tool for sketching.
-- [Eraser.io](https://eraser.io) - Tool for removing backgrounds from images.
-- [Canva](https://www.canva.com) - Graphic design tool.
-- [Google Keep](https://keep.google.com) - Note-taking service.
-- [Todoist](https://todoist.com) - Task management app.
+### [Learning and Educational Resources](./assets/Learning_and_Educational_Resources.md)
+Learning is a lifelong journey, and this section gathers the best resources for learning new languages, skills, and academic subjects. Websites like Anki, Duolingo, and various dictionaries are included, along with access to books, PDFs, and more.
 
-### Development and Programming Resources
-- [GitHub](https://github.com) - Code repositories and collaboration.
-- [MDN Web Docs](https://developer.mozilla.org) - Web development documentation.
-- [Stack Overflow](https://stackoverflow.com) - Q&A for developers.
-- [W3Schools](https://www.w3schools.com) - Web development tutorials.
+### [Weird and Interesting Websites](./assets/Weird_and_Interesting_Websites.md)
+Explore quirky, fun, and interesting websites that offer something out of the ordinary. This section will list sites that might just spark your curiosity or provide some light entertainment.
 
-### Entertainment and Media Resources
-- [MoviesMod](https://moviesmod.com) - Download movies and web series.
-- [SSYoutube](https://ssyoutube.com) - Download YouTube videos.
-- [Internet Archive](https://archive.org) - Digital library of free content.
+### [General Tools for Daily Use](./assets/General_Tools_for_Daily_Use.md)
+Find tools that are useful in your everyday life, including health-related tools like fitness trackers, weight calculators, mental health resources, and more. These are tools everyone should have for a balanced and organized daily routine.
 
-### GNU/Linux
-The ultimate section for all things related to Linux: whether you are a beginner or an advanced user, these resources will help you enhance your Linux skills, explore distros, learn DevOps, and more.
-
-- **Linux Learning Platforms:**
-  - [Linux Journey](https://linuxjourney.com) - Learn Linux basics.
-  - [Linux Academy](https://linuxacademy.com) - Linux courses for beginners to advanced users.
-  - [The Linux Foundation](https://training.linuxfoundation.org) - Professional certifications and training.
-  - [Linuxtopia](http://www.linuxtopia.org) - Comprehensive Linux tutorials and manuals.
-
-- **Linux Forums and Communities:**
-  - [LinuxQuestions](https://www.linuxquestions.org) - A community-driven forum for Linux users.
-  - [Reddit Linux](https://www.reddit.com/r/linux) - A popular Linux subreddit for news, tips, and discussion.
-  - [Arch Linux Forums](https://bbs.archlinux.org) - Forum for Arch Linux users and developers.
-
-- **Linux Documentation:**
-  - [The Linux Documentation Project](http://www.tldp.org) - Extensive Linux documentation, HOWTOs, and guides.
-  - [Ubuntu Documentation](https://help.ubuntu.com) - Official Ubuntu support and documentation.
-  - [Arch Wiki](https://wiki.archlinux.org) - Comprehensive Arch Linux knowledge base.
-  - [Debian Wiki](https://wiki.debian.org) - Debian documentation and guides.
-
-- **Linux Distributions:**
-  - [Ubuntu](https://ubuntu.com) - Popular beginner-friendly Linux distribution.
-  - [Fedora](https://getfedora.org) - Cutting-edge Linux distribution for developers.
-  - [Arch Linux](https://archlinux.org) - Minimalist Linux distribution for advanced users.
-  - [Debian](https://www.debian.org) - Stable and reliable Linux distribution.
-
-- **DevOps and Linux Tools:**
-  - [Docker](https://www.docker.com) - Container platform widely used in Linux environments.
-  - [Ansible](https://www.ansible.com) - Open-source automation tool for DevOps.
-  - [Kubernetes](https://kubernetes.io) - Container orchestration for scalable applications.
-  - [Jenkins](https://www.jenkins.io) - Automation server for building, testing, and deploying applications.
-  - [Vagrant](https://www.vagrantup.com) - Tool for building and managing virtual machine environments.
-
-- **Linux News and Updates:**
-  - [Phoronix](https://www.phoronix.com) - Linux hardware and software news.
-  - [DistroWatch](https://distrowatch.com) - Latest news and releases from various Linux distributions.
-  - [OMG! Ubuntu!](https://www.omgubuntu.co.uk) - News, tutorials, and tips on Ubuntu and Linux.
-
-### Lifestyle and Wellness Resources
-- [MyFitnessPal](https://www.myfitnesspal.com) - Calorie counting and fitness tracking.
-- [Fitbit](https://www.fitbit.com) - Fitness and health tracking.
-- [Headspace](https://www.headspace.com) - Meditation and mental wellness.
-- [WebMD](https://www.webmd.com) - Health information and advice.
-- [Clue](https://helloclue.com) - Period and ovulation tracker.
-- [Lose It!](https://www.loseit.com) - Weight loss tracking.
-
-### Learning Platforms
-- [Khan Academy](https://www.khanacademy.org) - Educational resources.
-- [Wikipedia](https://www.wikipedia.org) - General knowledge.
-- [Duolingo](https://www.duolingo.com) - Language learning platform.
-- [Anki](https://apps.ankiweb.net) - Flashcard app for learning.
-- [Dictionary](https://www.dictionary.com) - Online dictionary resources.
-
-### Open Source Software
-- [SourceForge](https://sourceforge.net) - Open source projects.
-- [GitLab](https://gitlab.com) - Version control and CI/CD.
-- [NewPipe](https://newpipe.schabi.org) - YouTube alternative app.
-- [Seal](https://sealapp.com) - Music listing app.
-- [VLC](https://www.videolan.org) - Open-source media player.
-
-### Security and Ethical Hacking Resources
-- [Kali Linux](https://www.kali.org) - Penetration testing distribution.
-- [OWASP](https://owasp.org) - Open Web Application Security Project resources.
-
-### Social Networking Sites
-- [Pinterest](https://www.pinterest.com) - Social media platform for sharing ideas.
-- [Instagram](https://www.instagram.com) - Photo and video sharing platform.
-
-### Free Resource Websites
-- [Coursera](https://www.coursera.org) - Online courses.
-- [Udemy](https://www.udemy.com) - Various online courses.
-- [freeCodeCamp](https://www.freecodecamp.org) - Coding tutorials.
-
-### Technology News and Updates
-- [TechCrunch](https://techcrunch.com) - Latest technology news.
-- [The Verge](https://www.theverge.com) - Technology and culture news.
-- [Wired](https://www.wired.com) - News on technology and its impact.
-- [Ars Technica](https://arstechnica.com) - Technology news and reviews.
-
-## Weird and Interesting Websites
-Explore some of the strangest, most fun, and fascinating websites on the internet. Discover quirky tools, curious art projects, and sites that offer unique experiences.
-- [The Useless Web](https://theuselessweb.com) - Takes you to a random, weird, and often pointless website.
-- [Pointer Pointer](http://pointerpointer.com) - Shows a picture of someone pointing to wherever your cursor is.
-- [Zoomquilt](http://zoomquilt.org) - An infinitely zooming artwork.
-- [Staggering Beauty](http://www.staggeringbeauty.com) - A fun and weird interactive website.
-- [This Is Sand](https://thisissand.com) - Create digital sand art by clicking and dragging.
-- [Nukemap](http://nuclearsecrecy.com/nukemap/) - A map that lets you simulate a nuclear explosion anywhere in the world.
-
-## Contributing
-Contributions are welcome! If you have any valuable resources or links that you think should be added to the collection, feel free to submit a pull request. Please make sure to categorize your submissions correctly and provide a short description for each link.
-
-### How to Contribute
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new pull request.
-
-## Contact
-If you have any questions or suggestions, feel free to contact me:
-- **GitHub**: [Nitesh Nagar](https://github.com/mrzitesh)
-- **Instagram**: [Nitesh Nagar](https://www.instagram.com/mrzitesh)
-- **Twitter**: [@mrzitesh](https://twitter.com/mrzitesh)
+---
 
 ## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+This repository is licensed under the [CC0-1.0 License](./LICENSE). This means you can use, modify, and share everything in this repository without restrictions.
+
+---
+
+## Contact Me
+
+Feel free to reach out to me on my social media platforms:
+
+- **Instagram**: [mrzitesh](https://instagram.com/mrzitesh)
+- **Twitter**: [mrzitesh](https://twitter.com/mrzitesh)
+- **GitHub**: [mrzitesh](https://github.com/mrzitesh)
+- **YouTube**: [The GNU Linux Lab](https://www.youtube.com/@TheGnuLinuxLab)
+
+---
+
+## Contribution
+
+If you have suggestions, new resources, or improvements, feel free to open a pull request. Contributions are always welcome!
+
+---
+
+Happy exploring! This repository is designed to be a living document, regularly updated with new resources, tools, and links.
