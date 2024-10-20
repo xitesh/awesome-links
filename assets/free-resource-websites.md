@@ -36,6 +36,7 @@ This section lists various websites offering free resources, tools, and services
 - **GitHub**: [GitHub](https://github.com/) - A platform for version control and collaboration that hosts millions of public repositories.
 - **SourceForge**: [SourceForge](https://sourceforge.net/) - A website that hosts open-source software projects.
 - **FileHippo**: [FileHippo](https://filehippo.com/) - A website offering free software downloads and updates.
+- **HeiDocNet**: [HeiDocNet](https://heidoc.net/) - A website that can help you to download windows and premium softwares for free.
 
 ## Creative Resources
 - **Free Music Archive**: [Free Music Archive](https://freemusicarchive.org/) - A library of high-quality, legal audio downloads.
